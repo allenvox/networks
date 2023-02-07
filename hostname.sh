@@ -37,3 +37,4 @@ else #print
         echo -e "\nCreate infofile with -s -n"
     fi
 fi
+
